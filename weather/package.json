@@ -1,7 +1,7 @@
 {
-  "name": "redux-simple-starter",
+  "name": "weather",
   "version": "1.0.0",
-  "description": "Redux Simple Exercise - Book List with React and Babel support",
+  "description": "Weather",
   "main": "index.js",
   "repository": "https://github.com/shawnsong/redux-simple-examples.git",
   "scripts": {
